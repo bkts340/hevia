@@ -11,25 +11,25 @@ const collections = [
     title: "Tous nos carrelages",
     desc: "L’élégance naturelle sous vos pas.",
     img: img1,
-    link: "/catalogue",
+    link: "/",
   },
   {
     title: "Carrelage salle de bain",
     desc: "Structurez vos murs avec raffinement.",
     img: img2,
-    link: "/salle-de-bain",
+    link: "/",
   },
   {
     title: "Carrelage extérieur",
     desc: "Confort et solidité en plein air.",
     img: img3,
-    link: "/exterieur",
+    link: "/",
   },
   {
     title: "Carrelage Piscine",
     desc: "L’art du détail pour vos espaces raffinés.",
     img: img4,
-    link: "/piscine",
+    link: "/",
   },
 ]
 
