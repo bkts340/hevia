@@ -82,7 +82,7 @@ export default function ContactSection() {
 
             <div className="flex gap-4 mt-10">
               <a
-                href="https://www.instagram.com/maison.hevia/"
+                href="https://www.instagram.com"
                 target="_blank"
                 className="w-12 h-12 flex items-center justify-center rounded-xl bg-white shadow-md hover:bg-[#CBA18B] transition"
               >
@@ -90,7 +90,7 @@ export default function ContactSection() {
               </a>
 
               <a
-                href="https://www.facebook.com/profile.php?id=61580245243798"
+                href=""
                 target="_blank"
                 className="w-12 h-12 flex items-center justify-center rounded-xl bg-white shadow-md hover:bg-[#CBA18B] transition"
               >
